@@ -7,7 +7,7 @@ import time
 
 
 #==============================================================================
-#not run
+
 def scrape_bomojo_movies(urlConst = 'http://www.boxofficemojo.com/movies/?id=', titles):
   """construct URL structures for boxofficemojo.com using movie titles downloaded from wikipedia (see wikiMovies module). Then fetch these pages and return dictionary of 'title':'beautiful soup object' pairs where each value is the bomojo page for the movie."""
   
