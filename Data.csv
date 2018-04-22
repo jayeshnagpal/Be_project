@@ -1,4 +1,4 @@
-Id,title,distributor,Genre,leadActor,Actor popularity,director,Director popularity,Sentiment,num_theaters,runtime_mins,releaseYear,CULT_INDEX,CPI,prod_budget_ADJ,rev_totalGross_ADJ
+﻿Id,title,distributor,Genre,leadActor,Actor popularity,director,Director popularity,Sentiment,num_theaters,runtime_mins,releaseYear,CULT_INDEX,CPI,prod_budget_ADJ,rev_totalGross_ADJ
 3468,Whipped,Destination,Comedy,Amanda Peet,7.599365,Peter Cohen,1.12,-1,1581,82,2000,5.53E-10,172.2,4146341.463,10902214.08
 3384,Little Nicky,New Line,Comedy,Adam Sandler,7.883535,Steven Brill,1.841047,-1,2910,84,2000,5.26E-11,172.2,117479674.8,103426652.3
 3381,The Ladies Man,Paramount,Comedy,Tim Meadows,1.93928,Reginald Hudlin,1.618813,-1,2022,84,2000,2.29E-10,172.2,33170731.71,35685504.04
@@ -2071,7 +2071,7 @@ Id,title,distributor,Genre,leadActor,Actor popularity,director,Director populari
 5465,Django Unchained,Weinstein Company,Western,Jamie Foxx,5.218286,Quentin Tarantino,5.551689,1,3010,165,2012,5.96E-11,229.594,103661245.5,192038935.3
 5460,Dead Man s Burden,Cinedigm Entertainment,Western,Barlow Jacobs,1.000001,Jared Moshe,1.003074,1,1,93,2013,0.0005103643541,232.957,4134.821475,33250.2423
 5469,Filly Brown,Lionsgate,Drama,Jenni Rivera,1.0576,Youssef Delara,1,1,188,101,2013,6.94E-09,232.957,2043295.544,3198186.573
-2890,Northern Lights,APD/Cinema Conservancy,Drama,Diane Keaton,6.278864,Linda Yellen,1.00002,0,1740,95,2013,1.07E-06,232.957,1318.973899,10606.55128
+2890,Northern Lights,APD/Cinema Coservancy,Drama,Diane Keaton,6.278864,Linda Yellen,1.00002,0,1740,95,2013,1.07E-06,232.957,1318.973899,10606.55128
 2947,Turbo: A Power Rangers Movie,Fox,Animation,Johnny Yong Bosch,1.089681,Jonathan Tzachor,1.000225,0,3806,96,2013,4.80E-11,232.957,137922449.2,93160065.27
 4469,Kill Your Darlings,Sony Classics,Drama,Lolita Davidovich,2.915906,Björne Larson,1.000191,0,4,104,2013,9.01E-05,232.957,143724.6727,1155762.894
 246,Dracula,Universal,Action Horror,Frank Langella,3.217034,John Badham,2.244324,1,2885,92,2014,3.53E-11,236.736,70373749.66,63148256.76
@@ -2080,4 +2080,10 @@ Id,title,distributor,Genre,leadActor,Actor popularity,director,Director populari
 110,The Noah,Paramount,Drama,Robert Strauss,1.031654,Daniel Bourla,1,0,3567,138,2014,1.48E-11,236.736,125667410.1,113549503.4
 2400,Dracula: Dead and Loving It,Universal,Action Horror,Leslie Nielsen,4.941178,Mel Brooks,3.164083,1,2885,92,2014,3.53E-11,236.736,70373749.66,63148256.76
 109,Night Moves,Cinedigm Entertainment,Thriller,Gene Hackman,5.738446,Arthur Penn,3.042165,1,2,112,2014,0.000294276483,236.736,37917.92636,304917.3111
-94,The Black Bird,Relativity,Drama,George Segal,2.100523,David Giler,1.037513,1,1789,116,2014,2.13E-10,236.736,7037374.966,16402652.86
+94,The Black Bird,Relativity,Drama,George Segal,2.100523,David Giler,1.037513,1,1789,116,2014,2.13E-10,236.736,7037374.966,16402652.86
+
+1,Prestige,Buena Vista,Fantasy Drama,Andy Serkis,6.556776,Christopher Nolan,7.479288,0,2305,135.0,2006,8.83e-06,200,40000000.0,40194767
+
+1,Prestige,Buena Vista,Fantasy Drama,Andy Serkis,6.556776,Christopher Nolan,7.479288,0,2305,135.0,2006,8.83e-06,200,40000000.0,40194767
+
+1,Prestige,Buena Vista,Fantasy Drama,Andy Serkis,6.556776,Christopher Nolan,7.479288,0,2305,135.0,2006,8.83e-06,200,40000000.0,40194767
