@@ -36,7 +36,7 @@ for year in yearRange:
                 continue
 
             try:
-                title = title.append(pd.Series(r[0].text))
+                    title = title.append(pd.Series(r[0].text))
             except IndexError:
                 title = title.append(pd.Series('NA'))
 
